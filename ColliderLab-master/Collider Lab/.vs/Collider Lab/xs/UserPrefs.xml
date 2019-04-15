@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{75FDC531-133F-3853-54E7-3C41ECE74D64}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerControllerTask2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerControllerTask1.cs" Line="35" Column="69" />
+      <File FileName="Assets/Scripts/PlayerControllerTask2.cs" Line="35" Column="5" />
+      <File FileName="Assets/Scripts/FeetColliderScript.cs" Line="17" Column="44" />
+      <File FileName="Assets/Scripts/BodyColliderScript.cs" Line="13" Column="11" />
+      <File FileName="Assets/Scripts/ShooterScript.cs" Line="54" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

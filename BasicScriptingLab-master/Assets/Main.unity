@@ -199,6 +199,14 @@ MonoBehaviour:
     score: 5
     spawnTimer: 0
     currentSpawnDelay: 0
+  - prefab: {fileID: 1681424170142956, guid: 0d18789e0d7cb4e2698a2597915bfca4, type: 2}
+    minSpawnDelay: 1
+    maxSpawnDelay: 6
+    timeUntilMaxSpawnDelay: 120
+    firstSpawnTime: 0
+    score: 1
+    spawnTimer: 0
+    currentSpawnDelay: 0
   gameover: {fileID: 434571744}
 --- !u!4 &394862117
 Transform:

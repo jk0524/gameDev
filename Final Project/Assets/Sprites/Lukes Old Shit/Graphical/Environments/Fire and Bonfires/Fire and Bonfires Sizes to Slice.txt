@@ -1,0 +1,10 @@
+Sizes of each frame in Sprite sheets to Slice (Grid):
+
+Bonfires
+Width: 22px
+Height: 37px
+
+
+Fires
+Width: 22px
+Height: 31px

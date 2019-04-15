@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a95d519d1d57044e8f6ca7e59fa6d76, type: 3}
+  m_Name: room Gen
+  m_EditorClassIdentifier: 
+  overwriteFilledSpaces: 1
+  generatesEmptySpace: 1
+  minimumGeneratedRooms: 15
+  maximumGeneratedRooms: 30
+  endroomDoorX: 5
+  endroomDoorY: -5
+  roomSizeX: 10
+  roomSizeY: 10
+  startRoomList: {fileID: 11400000, guid: 04bc3e0ca781bc147aadbe8df50d6a1d, type: 2}
+  placeCustomEndRoom: 1
+  endRoomList: {fileID: 11400000, guid: e64574c636221415d889f7c81fadc707, type: 2}
+  hasSouthExit: {fileID: 11400000, guid: 7e0e5b2fe1adaec4184b64e05a06f904, type: 2}
+  hasNorthExit: {fileID: 11400000, guid: 3e43cc8a5e6448c41b4f0f77c037de4f, type: 2}
+  hasEastExit: {fileID: 11400000, guid: 50917dedb03091344a6e4fa76b1b9801, type: 2}
+  hasWestExit: {fileID: 11400000, guid: 9f23e51b759b71844853102ae786a36b, type: 2}
+  pickStartPositionFromList: 1
+  startPositions:
+  - x: 0
+    y: 0
+  fillEmptySpaceWithRandomRooms: 0
+  randomFillRoomList: {fileID: 11400000, guid: 04bc3e0ca781bc147aadbe8df50d6a1d, type: 2}

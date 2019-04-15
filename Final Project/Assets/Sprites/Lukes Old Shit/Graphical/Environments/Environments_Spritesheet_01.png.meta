@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 90547184b7b30f64bbc4704287bbf514
+labels:
+- fantasy
+- pixelart
+- environment
+- spritesheet
+timeCreated: 1436855783
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Environments_Spritesheet_0
+    21300002: Environments_Spritesheet_1
+    21300004: Environments_Spritesheet_2
+    21300006: Environments_Spritesheet_3
+    21300008: Environments_Spritesheet_4
+    21300010: Environments_Spritesheet_5
+    21300012: Environments_Spritesheet_6
+    21300014: Environments_Spritesheet_7
+    21300016: Environments_Spritesheet_8
+    21300018: Environments_Spritesheet_9
+    21300020: Environments_Spritesheet_10
+    21300022: Environments_Spritesheet_11
+    21300024: Environments_Spritesheet_12
+    21300026: Environments_Spritesheet_13
+    21300028: Environments_Spritesheet 1_14
+    21300030: Environments_Spritesheet 1_15
+    21300032: Environments_Spritesheet 1_16
+    21300034: Environments_Spritesheet 1_17
+    21300036: Environments_Spritesheet 1_18
+    21300038: Environments_Spritesheet 1_19
+    21300040: Environments_Spritesheet_20
+    21300042: Environments_Spritesheet_21
+    21300044: Environments_Spritesheet_22
+    21300046: Environments_Spritesheet_23
+    21300048: Environments_Spritesheet 1_24
+    21300050: Environments_Spritesheet 1_25
+    21300052: Environments_Spritesheet_26
+    21300054: Environments_Spritesheet_27
+    21300056: Environments_Spritesheet_28
+    21300058: Environments_Spritesheet_29
+    21300060: Environments_Spritesheet_30
+    21300062: Environments_Spritesheet_31
+    21300064: Environments_Spritesheet_32
+    21300066: Environments_Spritesheet_33
+    21300068: Environments_Spritesheet_34
+    21300070: Environments_Spritesheet_35
+    21300072: Environments_Spritesheet_36
+    21300074: Environments_Spritesheet_37
+    21300076: Environments_Spritesheet_38
+    21300078: Environments_Spritesheet_39
+    21300080: Environments_Spritesheet_40
+    21300082: Environments_Spritesheet_41
+    21300084: Environments_Spritesheet_42
+    21300086: Environments_Spritesheet_43
+    21300088: Environments_Spritesheet_44
+    21300090: Environments_Spritesheet_45
+    21300092: Environments_Spritesheet_46
+    21300094: Environments_Spritesheet_47
+    21300096: Environments_Spritesheet_48
+    21300098: Environments_Spritesheet_49
+    21300100: Environments_Spritesheet_50
+    21300102: Environments_Spritesheet_51
+    21300104: Environments_Spritesheet_52
+    21300106: Environments_Spritesheet_53
+    21300108: Environments_Spritesheet_54
+    21300110: Environments_Spritesheet_55
+    21300112: Environments_Spritesheet_56
+    21300114: Environments_Spritesheet_57
+    21300116: Environments_Spritesheet_58
+    21300118: Environments_Spritesheet_59
+    21300120: Environments_Spritesheet_60
+    21300122: Environments_Spritesheet_61
+    21300124: Environments_Spritesheet_62
+    21300126: Environments_Spritesheet_63
+    21300128: Environments_Spritesheet_64
+    21300130: Environments_Spritesheet_65
+    21300132: Environments_Spritesheet_66
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Environments_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1222
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1218
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1217
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1213
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1212
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1212
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1210
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1207
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1205
+        width: 35
+        height: 28
+      alignment: 9
+      pivot: {x: .516329527, y: .414267391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1204
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: .466130018, y: .401455581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1203
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: .438448399, y: .229463711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1202
+        width: 46
+        height: 31
+      alignment: 9
+      pivot: {x: .5, y: .367250502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1168
+        width: 57
+        height: 32
+      alignment: 9
+      pivot: {x: .502005517, y: .439273834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1168
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1168
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1168
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1162
+        width: 34
+        height: 38
+      alignment: 9
+      pivot: {x: .5, y: .427805036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1160
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: .484411746, y: .385690302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1160
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: .489608079, y: .365686029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1160
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: .473103255, y: .311389148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1160
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: .503265381, y: .317102045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1160
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: .496637672, y: .311389148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1160
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: .486551613, y: .297097772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1160
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: .48991394, y: .294241339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1160
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: .5, y: .305673212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1115
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: .484412223, y: .210239142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1114
+        width: 5
+        height: 44
+      alignment: 9
+      pivot: {x: .499999225, y: .416864574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1114
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: .485711098, y: .419464111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1114
+        width: 5
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1114
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: .514909804, y: .416864574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1114
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: .513419569, y: .294128418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1114
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: .517892778, y: .294128418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1113
+        width: 5
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .410533309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1113
+        width: 5
+        height: 45
+      alignment: 9
+      pivot: {x: .49999696, y: .392640531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1104
+        width: 43
+        height: 54
+      alignment: 9
+      pivot: {x: .499999642, y: .436627418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1104
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: .519749224, y: .398448795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1104
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: .497219175, y: .406636566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1103
+        width: 72
+        height: 55
+      alignment: 9
+      pivot: {x: .505424917, y: .343765527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1087
+        width: 5
+        height: 71
+      alignment: 9
+      pivot: {x: .447924793, y: .356967986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1087
+        width: 5
+        height: 71
+      alignment: 9
+      pivot: {x: .473962396, y: .355135202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1084
+        width: 5
+        height: 74
+      alignment: 9
+      pivot: {x: .5, y: .357489496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1084
+        width: 5
+        height: 74
+      alignment: 9
+      pivot: {x: .526043713, y: .350450665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1083
+        width: 5
+        height: 75
+      alignment: 9
+      pivot: {x: .473962396, y: .364596367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1083
+        width: 5
+        height: 75
+      alignment: 9
+      pivot: {x: .473962396, y: .362861335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 984
+        width: 27
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 972
+        width: 5
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 928
+        width: 107
+        height: 153
+      alignment: 9
+      pivot: {x: .495871782, y: .361422658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 928
+        width: 107
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 107
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 652
+        width: 185
+        height: 274
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 696
+        width: 21
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 652
+        width: 185
+        height: 274
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 696
+        width: 21
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 374
+        width: 184
+        height: 267
+      alignment: 9
+      pivot: {x: .432109803, y: .396119654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 346
+        width: 204
+        height: 304
+      alignment: 9
+      pivot: {x: .402242333, y: .435128361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 204
+        height: 304
+      alignment: 9
+      pivot: {x: .404649913, y: .440280765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 68
+        width: 184
+        height: 267
+      alignment: 9
+      pivot: {x: .426654637, y: .401395649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Environments_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1206
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

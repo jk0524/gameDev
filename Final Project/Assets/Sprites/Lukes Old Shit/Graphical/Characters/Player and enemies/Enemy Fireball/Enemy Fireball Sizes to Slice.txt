@@ -1,0 +1,15 @@
+Sizes of each frame in Sprite sheets to Slice (Grid):
+
+Attack
+Width: 80px
+Height: 88px
+
+
+Idle
+Width: 30px
+Height: 50px
+
+
+Death
+Width: 100px
+Height: 50px
